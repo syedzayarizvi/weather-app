@@ -37,4 +37,4 @@ weather-app/
 ├── script.js        # JavaScript functionality
 └── README.md        # Project documentation
 
-![Weather App Preview](assets/weather-preview.png)
+![Weather App Preview](assets/screenshots/weather-preview.png)
