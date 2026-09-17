@@ -38,4 +38,5 @@ weather-app/
 └── assets/
     └── screenshots/
         └── weather-preview.png  # Weather App preview
+```
 ![Weather App Preview](assets/screenshots/weather-preview.png)
