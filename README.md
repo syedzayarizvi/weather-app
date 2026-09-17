@@ -31,10 +31,11 @@ The app allows users to search for a city and view its current weather informati
 
 ```text
 weather-app/
-│
-├── index.html       # Main HTML structure
-├── style.css        # Styling and responsive design
-├── script.js        # JavaScript functionality
-└── README.md        # Project documentation
-
+├── index.html              # Main HTML structure
+├── style.css               # Styling and responsive design
+├── script.js               # JavaScript functionality
+├── README.md               # Project documentation
+└── assets/
+    └── screenshots/
+        └── weather-preview.png  # Weather App preview
 ![Weather App Preview](assets/screenshots/weather-preview.png)
